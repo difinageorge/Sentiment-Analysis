@@ -63,8 +63,8 @@ The objective was to analyze **tweets** and determine whether they express **Pos
 
 3. **Download datasets**
 
-   * [tweets.csv.zip – Google Drive Link](YOUR_TWEETS_CSV_LINK)
-   * [sentiment\_results.csv.zip – Google Drive Link](YOUR_RESULTS_CSV_LINK)
+   * [tweets.csv.zip – Google Drive Link](https://drive.google.com/file/d/1V_G7cve-frtqM-p9Cbe-9ikT7D8gfexk/view?usp=share_link)
+   * [sentiment_results.csv.zip – Google Drive Link](https://drive.google.com/file/d/1GXQ7RHo9bwucaa_tctbRPK-aBGMNGIVA/view?usp=share_link)
 
    Unzip both files into the project directory.
 
